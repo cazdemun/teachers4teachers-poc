@@ -63,7 +63,8 @@ const generalMachine = Machine(
 // hidden progress
 
 const Videos = ({ current }) =>
-  <Col name="videos" span={16} style={{ padding: "10px 20px" }}>
+  <Col name="videos" xs={{ span: 24 }} md={{ span: 24 }} lg={{ span: 16 }}
+    style={{ padding: "10px 20px" }}>
     <h1>Videos</h1>
     <Divider />
     <List
@@ -82,13 +83,14 @@ const Videos = ({ current }) =>
         <List.Item>
           <Card title={<Tooltip title={item}>
             <span>{item}</span>
-          </Tooltip>}>El vídeo va aquí</Card>
+          </Tooltip>} style={{ minHeight: "200px" }}>El vídeo va aquí</Card>
         </List.Item>
       )} />
   </Col>
 
 const Communities = ({ current }) =>
-  <Col name="communities" span={8} style={{ padding: "10px 20px" }}>
+  <Col name="communities" xs={{ span: 24 }} md={{ span: 24 }} lg={{ span: 8 }}
+    style={{ padding: "10px 20px" }}>
     <h1>Comunidades</h1>
     <Divider />
     <List
@@ -111,7 +113,6 @@ function App() {
         <Menu theme="dark" mode="horizontal" defaultSelectedKeys={['1']}>
           <Menu.Item key="1">Fase 1</Menu.Item>
           <Menu.Item disabled key="2">Fase 2</Menu.Item>
-          <Menu.Item disabled key="3">Fase 3</Menu.Item>
         </Menu>
       </Header>
       <Content name="layout-content" style={{ padding: "20px 0px", minHeight: "100%" }}>
