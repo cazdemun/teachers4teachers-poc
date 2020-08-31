@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/teachers4teachers-poc/static/css/main.fb650395.chunk.css",
+    "main.js": "/teachers4teachers-poc/static/js/main.0846ad97.chunk.js",
+    "main.js.map": "/teachers4teachers-poc/static/js/main.0846ad97.chunk.js.map",
+    "runtime-main.js": "/teachers4teachers-poc/static/js/runtime-main.7fbab068.js",
+    "runtime-main.js.map": "/teachers4teachers-poc/static/js/runtime-main.7fbab068.js.map",
+    "static/css/2.847e01e0.chunk.css": "/teachers4teachers-poc/static/css/2.847e01e0.chunk.css",
+    "static/js/2.cc9a8fa4.chunk.js": "/teachers4teachers-poc/static/js/2.cc9a8fa4.chunk.js",
+    "static/js/2.cc9a8fa4.chunk.js.map": "/teachers4teachers-poc/static/js/2.cc9a8fa4.chunk.js.map",
+    "index.html": "/teachers4teachers-poc/index.html",
+    "precache-manifest.561705a688cc0a4142173907d2aac38b.js": "/teachers4teachers-poc/precache-manifest.561705a688cc0a4142173907d2aac38b.js",
+    "service-worker.js": "/teachers4teachers-poc/service-worker.js",
+    "static/css/2.847e01e0.chunk.css.map": "/teachers4teachers-poc/static/css/2.847e01e0.chunk.css.map",
+    "static/css/main.fb650395.chunk.css.map": "/teachers4teachers-poc/static/css/main.fb650395.chunk.css.map",
+    "static/js/2.cc9a8fa4.chunk.js.LICENSE.txt": "/teachers4teachers-poc/static/js/2.cc9a8fa4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7fbab068.js",
+    "static/css/2.847e01e0.chunk.css",
+    "static/js/2.cc9a8fa4.chunk.js",
+    "static/css/main.fb650395.chunk.css",
+    "static/js/main.0846ad97.chunk.js"
+  ]
+}
