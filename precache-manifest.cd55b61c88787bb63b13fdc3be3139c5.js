@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d29cad38ce6d7bfcf246e2f137f064d8",
+    "revision": "15f96a779993c9cfd8c24fd62486e512",
     "url": "/teachers4teachers-poc/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/teachers4teachers-poc/static/css/2.847e01e0.chunk.css"
   },
   {
-    "revision": "f6f54d4a7e917c06bbbb",
+    "revision": "01b60aed32fc666835eb",
     "url": "/teachers4teachers-poc/static/css/main.fb650395.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/teachers4teachers-poc/static/js/2.cc9a8fa4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f6f54d4a7e917c06bbbb",
-    "url": "/teachers4teachers-poc/static/js/main.0846ad97.chunk.js"
+    "revision": "01b60aed32fc666835eb",
+    "url": "/teachers4teachers-poc/static/js/main.905c078f.chunk.js"
   },
   {
     "revision": "437f2778e5e24b6caa7f",
